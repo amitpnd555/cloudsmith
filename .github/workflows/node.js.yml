@@ -23,7 +23,7 @@ jobs:
           api-key: ${{ secrets.CLOUDSMITH_API_KEY }}
           command: "push"
           format: "npm"
-          owner: "cloudsmith"
-          repo: "actions"
+          owner: "amit-pandey"
+          repo: "ci-cd"
           republish: "true" 
           file: "cloudsmith-1.0.0.tgz" 
