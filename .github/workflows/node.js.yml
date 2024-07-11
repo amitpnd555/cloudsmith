@@ -25,5 +25,5 @@ jobs:
           format: "npm"
           owner: "cloudsmith"
           repo: "actions"
-          republish: "true" # needed ONLY if version is not changing
-        #  file: "test/fixture/cloudsmith-npm-example-1.0.0.tgz" #real file that will repeat versions
+          republish: "true" 
+          file: "cloudsmith-1.0.0.tgz" 
