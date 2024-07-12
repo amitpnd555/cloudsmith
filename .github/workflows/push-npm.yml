@@ -3,7 +3,7 @@ name: Push NPM
 on:
   push:
     branches:
-      - main
+      - master
   # schedule:
      # run every 6 hours
   #   - cron: '0 0,6,12,18 * * *'
