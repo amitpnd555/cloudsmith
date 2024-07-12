@@ -27,3 +27,4 @@ jobs:
           repo: "ci-cd"
           republish: "true" # needed ONLY if version is not changing
           file: "test/fixture/express-1.0.0.tgz" #real file that will repeat versions
+          #file: "test/fixture/express-1.0.0.tgz"
