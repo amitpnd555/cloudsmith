@@ -27,5 +27,4 @@ jobs:
           repo: "ci-cd"
           republish: "true" # needed ONLY if version is not changing
           file: |
-            test/fixture/express-1.0.0.tgz
             test/fixture/oracledb-1.0.0.tgz
